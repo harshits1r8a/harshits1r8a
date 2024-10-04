@@ -1,7 +1,7 @@
 # Hi there, I'm Harshit Sharma 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/HarshitSharma.svg?style=social&label=Follow)](https://github.com/HarshitSharma) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-8ab7301b2/)
 
 I'm a **Full-stack Developer** and **Software Engineer** based in Bangalore, India 🇮🇳. With a passion for web and mobile app development, I aim to build solutions that are efficient, user-friendly, and impactful.
 
@@ -9,10 +9,10 @@ I'm a **Full-stack Developer** and **Software Engineer** based in Bangalore, Ind
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as an **Associate Software Engineer**
+- 🔭 Currently working on **QDukaan**
 - 🌱 Learning and growing in **full-stack development**, with a focus on **React.js**, **Node.js**, **Express.js**, and **MongoDB**
 - ⚡ Interned as a **Web Developer** at Bharat Intern
-- 🛠 Developed projects like **QuickStore** (a mobile app for Indian shop owners) and a **Messages Recovery App**
+- 🛠 Developed projects like **AlgoEasee** (a mobile app for Algorithmic treading).
 - 💡 Passionate about solving problems and improving user experiences
 
 ---
@@ -36,16 +36,13 @@ I'm a **Full-stack Developer** and **Software Engineer** based in Bangalore, Ind
 ---
 
 ### 📚 Projects
-- **QuickStore**: Mobile app designed for Indian shop owners to manage billing, inventory, and staff.
-- **Messages Recovery App**: An Android app for recovering deleted messages.
-- **Blog Web App**: Full-stack application where users can post blogs and interact with other writers.
 - **Employee Management System API**: A REST API to manage employee records with CRUD operations.
 
 ---
 
 ### 🌐 Get in Touch
-- LinkedIn: [Harshit Sharma](https://www.linkedin.com/in/harshit-sharma/)
-- Email: harshit.sharma@example.com (replace with your real email)
+- LinkedIn: [Harshit Sharma](https://www.linkedin.com/in/harshit-sharma-8ab7301b2/)
+- Email: harshsharma.h8a1r3@gmail.com
 
 ---
 
