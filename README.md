@@ -9,7 +9,7 @@ I'm a **Full-stack Developer** and **Software Engineer** based in Bangalore, Ind
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **QDukaan**
+- 🔭 Currently working on **QDukaan**, **GLYPH**
 - 🌱 Learning and growing in **full-stack development**, with a focus on **React.js**, **Node.js**, **Express.js**, and **MongoDB**
 - ⚡ Interned as a **Web Developer** at Bharat Intern
 - 🛠 Developed projects like **AlgoEasee** (a mobile app for Algorithmic treading).
